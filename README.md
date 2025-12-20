@@ -6,15 +6,9 @@
 
 ### 💫 Personal Info:
 
-I am a passionate Web Developer, constantly exploring modern design trends and building user-centric solutions. My development approach emphasizes performance, responsiveness, and accessibility to create websites and that are truly robust and future-proof.
+Engineering high-performance, future-proof applications with a focus on clean architecture, accessibility, and user-centric design. Dedicated to transforming complex requirements into robust digital products.
 
-I am also exploring freelancing opportunities and building high-quality projects to showcase my skills. My current major projects include:
-- 🎓 **Fee Records Management System**: A robust GAS & Html/JS web app for managing and tracking all Students fee related works.
-- 🖼️ KireiTab: A minimal, anime-themed Chrome New Tab extension that provides a clean and aesthetically pleasing browsing.
-- 🔑 **OrderEase**: A simple PHP and MySQL web app for managing and tracking deliveries.
-- 🏠 **Pet Pulse**: A modern pet adoption platform featuring a responsive UI.
-
-<br>👯	I'm looking to collaborate on: Any project that needs a strong focus on clean and robust Front-End & Backend development. I'm always open to modernizing PHP applications!
+<br>👯 Collaboration: Seeking partnerships for high-impact projects requiring clean architecture and robust Full-Stack engineering.
 - 📧 **Email:** khalid817014@gmail.com  
 
 
