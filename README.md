@@ -26,5 +26,5 @@ Engineering high-performance, future-proof applications with a focus on clean ar
 
 ### 🌐 Contact:
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@farhan-swe) [![Gmail 1](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farhansoftwareengineer34@gmail.com )  [![Website](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](#)
+[![Gmail 1](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farhansoftwareengineer34@gmail.com )  [![Website](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](https://github.com/farhan-swe/)
 
