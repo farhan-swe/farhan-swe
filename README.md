@@ -24,7 +24,7 @@ Engineering high-performance, future-proof applications with a focus on clean ar
 </a>
 
 
-### 🌐 Contact:
+### 🌐 Contact: 
 
 [![Gmail 1](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farhansoftwareengineer34@gmail.com )  [![Website](https://img.shields.io/badge/Portfolio-000000?logo=Google-Chrome&logoColor=white)](https://github.com/farhan-swe/)
 
