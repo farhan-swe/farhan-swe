@@ -6,7 +6,7 @@
 
 ### 💫 Personal Info:
 
-Engineering high-performance, future-proof applications with a focus on clean architecture, accessibility, and user-centric design. Dedicated to transforming complex requirements into robust digital products.
+Engineering high-performance, future-proof applications with a focus on clean architecture, accessibility, and user-centric design. Dedicated to transforming complex requirements into robust digital products. 
 
 <br>👯 Collaboration: Seeking partnerships for high-impact projects requiring clean architecture and robust Full-Stack engineering. Contact Here!!
 - 📧 **Email:** farhansoftwareengineer34@gmail.com  
